@@ -1,0 +1,49 @@
+
+body{
+    background-color: #E9ECEF;
+}
+
+.navbar a{
+    font-size: 30px;
+}
+.navbar li a{
+    font-size: 20px;
+}
+
+.main img{
+    height: 200px;
+    width: 287px;
+}
+.section-p{
+    text-align: center;
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+.list-center{
+    text-align: center;
+}
+
+.list-center:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rebeccapurple;
+}
+.price{
+    background-color:#FFF1DC;
+    color:#3A98B9;
+    text-align: end;
+    font-size: 30px;
+}
+
+.footer-style{
+    background-color:gainsboro;
+    padding: 20px;
+    margin: 20px;
+}
+
+.footer-row-style{
+    text-align:center;    
+}
